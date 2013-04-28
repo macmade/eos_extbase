@@ -30,7 +30,7 @@
 /**
  * Exception class for the EID scripts
  *
- * @author      Jean-David Gadina - www.xs-labs.com
+ * @author      (c) 2009 - Jean-David Gadina - www.xs-labs.com
  * @version     1.0
  * @package     TYPO3
  * @subpackage  eos_extbase
