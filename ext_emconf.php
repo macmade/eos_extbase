@@ -11,12 +11,12 @@
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'eosgarden / Extbase additions',
+	'title' => 'EOS / ExtBase',
 	'description' => '',
 	'category' => 'plugin',
 	'author' => 'Jean-David Gadina',
-	'author_email' => 'macmade@eosgarden.com',
-	'author_company' => 'eosgarden',
+	'author_email' => '',
+	'author_company' => 'XS-Labs',
 	'shy' => '',
 	'dependencies' => 'cms,extbase,fluid',
 	'conflicts' => '',

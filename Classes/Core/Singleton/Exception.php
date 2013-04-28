@@ -3,7 +3,7 @@
 #                                                                              #
 #                               COPYRIGHT NOTICE                               #
 #                                                                              #
-# (c) 2009 eosgarden                                                           #
+# (c) 2009 XS-Labs                                                             #
 # All rights reserved                                                          #
 #                                                                              #
 # This script is part of the TYPO3 project. The TYPO3 project is free          #
@@ -30,7 +30,7 @@
 /**
  * Exception class for the singleton classes
  *
- * @author      Jean-David Gadina <macmade@eosgarden.com>
+ * @author      Jean-David Gadina - www.xs-labs.com
  * @version     1.0
  * @package     TYPO3
  * @subpackage  eos_extbase
