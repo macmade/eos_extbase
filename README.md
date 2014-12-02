@@ -1,6 +1,11 @@
 EOS / ExtBase
 =============
 
+[![Issues](http://img.shields.io/github/issues/macmade/eos_extbase.svg?style=flat)](https://github.com/macmade/eos_extbase/issues)
+![Status](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
+![License](https://img.shields.io/badge/license-gpl2-brightgreen.svg?style=flat)
+[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+
 About
 -----
 
